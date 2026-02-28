@@ -1,4 +1,4 @@
-# em_oligomer_analysis
+# EM oligomer analysis
 
 The analysis of flexible multivalent oligomers on EM micrographs consists of the three following steps:
 1. Identifying and scoring oligomers from particle-picked micrographs.
